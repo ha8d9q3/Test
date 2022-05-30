@@ -2,5 +2,8 @@
 "repository": {
     "type": "git",
     "url": "https://github.com/ha8d9q3/Test.git"
+},
+"engines": {
+    "node": ">=15.0.0"
 }
 }
